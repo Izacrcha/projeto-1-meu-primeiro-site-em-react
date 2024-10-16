@@ -1,1 +1,1 @@
-# projeto-1-meu-primeiro-site-em-react
+# projeto-1-primeiro-site-em-react
